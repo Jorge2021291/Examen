@@ -1,6 +1,7 @@
 public class boolean hyperpar(int num) {
     int resto;
     while(num!=0)
+    a
     {
         resto = num%10;
         num = num/10;
