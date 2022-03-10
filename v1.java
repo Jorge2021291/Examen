@@ -1,5 +1,8 @@
 public class boolean hyperpar(int num) {
     int resto;
+    if(num>=0)
+    {
+
     while(num!=0)
     a
     {
@@ -11,5 +14,5 @@ public class boolean hyperpar(int num) {
         }
     }
     return true;
-
+    }
 }
