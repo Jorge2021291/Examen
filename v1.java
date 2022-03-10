@@ -4,7 +4,6 @@ public class boolean hyperpar(int num) {
     {
 
     while(num!=0)
-    a
     {
         resto = num%10;
         num = num/10;
